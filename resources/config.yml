@@ -1,0 +1,14 @@
+# Set your own JoinMessage!
+# Use {name} to get player's name!
+
+JoinMessage: "§a{name} joined the game!"
+
+# Set your own QuitMessage
+# Use {name} to get player's name!
+
+QuitMessage: "§c{name} left the game!"
+
+# Set your own Welcome Message, leave blank if you dont want it! (Sends this message on every join!)
+# Use {line} as a space!
+
+WelcomeMessage: "§aWelcome hope you enjoy this server!{line}tell your friends about this server too!"
