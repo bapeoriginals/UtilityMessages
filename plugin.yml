@@ -1,0 +1,6 @@
+name: UtilityMessages
+version: 1.0.0
+author: GuyNebuYea
+api: 3.0.0
+main: UtilityMessages\Main
+description: Custom Join/Quit/Welcome Message!
